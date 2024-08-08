@@ -25,7 +25,6 @@ Thanks to the Helium Network and THE PEOPLE, we're finally able to put LoRa-conn
 * You need to be in range of a Helium gateway ([here's a map](https://explorer.helium.com/)) or [buy your own gateway](https://www.helium.com/mine#hotspots).
 
 ## Helium Console configuration
-* ([YouTube Helium Console Integration Tutorial](https://www.youtube.com/watch?v=5vmkxZVknhs))
 * Add new device in the Helium Console under the 'Devices' tab. Name the device and attach an optional label for grouping multiple devices later on
 * Copy Dev EUI, App EUI, and App Key in msb hex format (0x00, 0x00,....) into the Aruino code where called out like below:
 
